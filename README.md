@@ -46,13 +46,6 @@ With **12+ years of experience** in full-stack development and solution architec
 
 ---
 
-### 📫 Let’s Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/terrellj511)  
-- 🧑‍💻 [Portfolio](#)  
-- ✉️ Reach me at: **terrelljohnsonwork@gmail.com**  
-
----
-
 > “Code is more than syntax — it’s how ideas become impact.”
 
 ⭐ **If you like my work, consider giving a star to my projects!**
