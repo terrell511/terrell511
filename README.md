@@ -1,7 +1,14 @@
-# 👋 Hi, I'm Terrell — Senior Software Engineer  
 ### 🧠 JavaScript | 🐍 Python | ☁️ SaaS & AI Solutions | 🌍 Remote  
 
-With **12+ years of experience** in full-stack development and solution architecture, I build **high-performing, scalable, and user-focused** software systems that drive real business impact.  
+With 12+ years of experience in full‑stack development and solution architecture, I build high‑performing, scalable, and user‑focused software systems that deliver measurable business impact.
+
+My expertise spans modern frontend frameworks such as React, Next.js, Angular, Vue, and Svelte, supported by deep proficiency in TypeScript, JavaScript (ES6+), Redux, Tailwind CSS, and GraphQL.
+
+On the backend, I design and implement robust services using Node.js (Nest.js, Express.js) and Python (Django, FastAPI, Flask), with a strong focus on REST APIs, microservices, and serverless architectures.
+
+I’m equally comfortable across the cloud and DevOps ecosystem - leveraging AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, and CI/CD pipelines to ensure reliability, scalability, and smooth delivery. I also specialize in application monitoring and performance optimization to keep systems fast and resilient.
+
+My database experience includes PostgreSQL, MySQL, MongoDB, Redis, and Elasticsearch, enabling me to design data models and storage strategies that support both performance and long‑term maintainability.
 
 ---
 
@@ -10,25 +17,6 @@ With **12+ years of experience** in full-stack development and solution architec
 - 🧠 Passionate about **AI-driven applications**, **clean architecture**, and **developer mentorship**
 - 💪 Advocate for **quality, security, and reliability** at every stage of the software lifecycle  
 - 🛠️ Focused on **building products that scale**, both technically and organizationally  
-
----
-
-### 🧰 Tech Stack
-
-#### **Frontend**
-- React.js | Next.js | Angular | Vue.js | Svelte  
-- TypeScript | JavaScript (ES6+) | Redux | Tailwind CSS | GraphQL  
-
-#### **Backend**
-- Node.js (Nest.js, Express.js) | Python (Django, FastAPI, Flask)  
-- REST APIs | Microservices | Serverless Architectures  
-
-#### **Cloud & DevOps**
-- AWS | Azure | Docker | Kubernetes | Terraform | Jenkins | CI/CD  
-- Application monitoring & performance optimization  
-
-#### **Databases**
-- PostgreSQL | MySQL | MongoDB | Redis | Elasticsearch  
 
 ---
 
