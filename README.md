@@ -32,23 +32,7 @@ With **12+ years of experience** in full-stack development and solution architec
 
 ---
 
-### 🧩 Software Craftsmanship
-- 🧱 **Clean Architecture & SOLID Principles**
-- 🧪 **Test-Driven Development (TDD)**
-- 🧭 **Agile / Scrum leadership**
-- 🤝 **Mentoring & code reviews** to foster team excellence
-
----
-
-### 💡 What I’m Working On
-- Building AI-enhanced SaaS solutions that deliver measurable results  
-- Exploring scalable architectures for modern cloud-native applications  
-
----
-
 > “Code is more than syntax — it’s how ideas become impact.”
-
-⭐ **If you like my work, consider giving a star to my projects!**
 
 ####      ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Mobile-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Database-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/AI-blue) ![](https://img.shields.io/badge/ASP.NET-blue) ![](https://img.shields.io/badge/Angular-blue)  ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/Java%Spring-blue) ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/Nest.js-blue)
 
